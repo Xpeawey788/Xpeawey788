@@ -1,10 +1,10 @@
 # Xpeawey
-## Кто такой Xpeawey?
-Я, Xpeawey, 14 летний ШКОЛЬНИК, которому интересна тема IT программирование. Почему я же выбрал именно IT, а не игры? Всё просто! Когда мне было 11 лет я любил сидеть в discord и пытался создавать свои сервер и пытался настроить discord ботов(JuniperBot, Mee6, Rythm, ProBot). Спустя время я задался вопросом: А как же создать своего бота? После поиска ресурсов и YouTube я понял, что создавать discord ботов это сложно, но меня это не остановила. В 12 лет я написал своего первого бота(GamerBot). Мне было ОЧЕНЬ интересно программировать и я хотел изучить всё больше и больше. На протяжении 1 месяца и писал маленьких дискорд ботов. Почему именно 1 месяц? А потому, что я забил на это, но вскоре снова вернулся. В почти 13 лет я уже умел писать discord ботов и решил ознакомиться с telegram API. API мне показалось лёгкое и я всё ещё продолжал писать код изучаю новые просторы IT. Вот мне 14 и я умею пользоваться discord, telegram API. Знаю: Python, JS, C#, html, css. Изучаю: Java, C++. Хочу изучить: Assembler.
-### Почему именно Xpeawey?
-Мне было 13 лет. У меня был Discord аккаунт. У меня был самый обычний ник(zagir1), Но всё поменялось! Мне пришла в голову(да, она у меня есть) идея: Придумать свой discord ник. Спустя час я получил свой любимый ник Xpeawey, но сейчас я думаю сменить ник на Weet.
+## Who is Xpeawey?
+I, Xpeawey, am a 14 year old STUDENT who is interested in IT programming. Why did I choose IT and not games? It's simple! When I was 11 years old I liked to sit in discord and tried to create my own server and tried to configure discord bots (JuniperBot, Mee6, Rythm, ProBot). After a while I wondered: How can I create my own bot? After searching for resources and YouTube I realized that it is difficult to create discord bots, but it didn't stop me. At the age of 12 I wrote my first bot (GamerBot). I was VERY interested in programming and wanted to learn more and more. For 1 month and wrote little discord bots. Why 1 month? Because I gave up on it, but soon I came back. At almost 13 years old I already knew how to write discord bots and decided to learn telegram API. The API seemed to be easy to me and I still continued to write code and explore new areas of IT. Here I am 14 and I know how to use discord, telegram API. I know: Python, JS, C#, html, css. I'm studying: Java, C++. I want to learn: Assembler.
+### Why Xpeawey?
+I was 13 years old. I had a Discord account. I had the most common nickname (zagir1), But everything changed! I got the idea (yes I have it): To make up my own discord nickname. After an hour I got my favorite nickname Xpeawey, but now I'm thinking to change it to Weet.
 ### Что я умею?
-В свои 14 лет. Я уже имел опыт в работе в IT. Опыт который я получил за 2 года:
+At my age of 14. I already had experience in working in IT. The experience I gained in 2 years:
  - ![изображение](https://user-images.githubusercontent.com/83707940/173535080-c96970eb-2d00-4d0b-b8ac-fd6fb63ca3c1.png)
  - ![изображение](https://user-images.githubusercontent.com/83707940/173535355-dd237f3e-b5c2-4c0a-9344-286ca57401e1.png)
  - ![изображение](https://user-images.githubusercontent.com/83707940/173535448-689d8697-f555-4370-a424-fd9faaa3be12.png)
@@ -14,7 +14,7 @@
  - ![изображение](https://user-images.githubusercontent.com/83707940/173536046-f38f1a12-b20a-405b-9e6d-dad531ce50b8.png)
  - ![изображение](https://user-images.githubusercontent.com/83707940/173536126-195ecae8-d65c-48d5-a958-b0ec5c57e993.png)
 
-### Какие текстовые редакторы использую?
+### What text editors do I use?
  - ![изображение](https://user-images.githubusercontent.com/83707940/173536287-b8684f28-25ec-4fa1-846b-373b4d16247b.png)
  - ![изображение](https://user-images.githubusercontent.com/83707940/173536431-6e5fb6a4-2416-41b9-a789-701e9b431b47.png)
  - ![изображение](https://user-images.githubusercontent.com/83707940/173536498-41f28cca-66a9-4a29-8699-a17a0c5ac141.png)
